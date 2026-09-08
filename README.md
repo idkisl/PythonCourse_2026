@@ -15,7 +15,7 @@
 
 В случае, если студент сдает устный экзамен или проектную работу на неудовлетворительный балл (строго менее 3), в ведомость выставляется оценка неудовлетворительно.
 
-Ведомость курса [ссылка](https://docs.google.com/spreadsheets/d/1TPMavod7w80orGsUYOXcLXWl4rFiGfGwrMzFKQBlJPo/edit?usp=sharing)
+Ведомость курса [ссылка](https://docs.google.com/spreadsheets/d/1S4AefPMceGCdPyBqEWCG_1uKwhAu1OBLEZ01vk-B-Qw/edit?usp=sharing)
 
 ## Программа курса
 
@@ -23,52 +23,25 @@
     - [лекция](01/Лекция/Лекция_1_Управляющие_конструкции.pdf)
     - [семинар](01/Семинар/workshop_control_structures.ipynb)
 02. Коллекции в Python: string, list, tuple, set, dict
-    - [лекция](02/Лекция/Лекция_2_Коллекции.pdf)
-    - [семинар](02/Семинар/workshop_collections.ipynb)
-    - [домашнее задание](https://contest.yandex.ru/contest/81702/problems/)
+
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
-    - [лекция](03/Лекция/lecture_3_functions.ipynb)
-    - [семинар](03/Семинар/workshop_functions.ipynb)
-    - [домашнее задание](https://contest.yandex.ru/contest/82008/)
+
 04. ООП в Python
-    - [лекция](04/Лекция/lecture_4_oop.ipynb)
-    - [семинар](04/Семинар/workshop_oop.ipynb)
-    - [домашнее задание](https://contest.yandex.ru/contest/82427/)
+    
 05. Исключения и unittest / pytest
-    - [лекция](05/Лекция)
-    - [семинар](05/Семинар)
-    - [домашнее задание](05/ДЗ)
-    - [сдать домашнее задание](https://forms.gle/xypggha4BBsamzXn8)
+
 06. Работа с файлами json, csv
-    - [лекция](06/Лекция)
-    - [семинар](06/Семинар)
-    - [домашнее задание](06/ДЗ)
-    - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLSf9OuueYcco3hNWmVitPL9tIqKKgOq754VUfpFY1J4w0AZSNg/viewform?usp=header)
+   
 07. Модуль NumPy
-    - [лекция](07/Лекция)
-    - [семинар](07/Семинар)
-    - [домашнее задание](07/ДЗ)
-    - [сдать домашнее задание](https://forms.gle/WVoFUE9v7daVzJaQA)
+ 
 08. Модуль Matplotlib
-    - [лекция](08/Лекция)
-    - [семинар](08/Семинар)
-    - [домашнее задание](08/ДЗ)
-    - [сдать домашнее задание](https://forms.gle/mRCX265ohnng4JK77)
+    
 09. Модуль Pandas
-    - [лекция](09/Лекция)
-    - [семинар](09/Семинар)
-    - [домашнее задание](09/ДЗ)
-    - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLScVC-C0yVBjBxs81UU3AwS93KwFMf3sSX0hlcusu7gIjYsV8g/viewform?usp=dialog)
+    
 10. Модуль requests. Работа с HTTP, socket
-    - [лекция](10/Лекция)
-    - [семинар](10/Семинар)
-    - [домашнее задание](10/ДЗ)
-    - [сдать домашнее задание](https://docs.google.com/forms/d/e/1FAIpQLSfVboT_5ZaZC1tWxCxZrfJkVXP4Iyf68OAw3zYruOlUmzb8_w/viewform?usp=dialog)
+    
 11. Введение в асинхронность, Telegram API
-    - [лекция](11/Лекция)
-    - [семинар](11/Семинар)
-    - [домашнее задание](11/ДЗ)
-    - [сдать домашнее задание](https://forms.gle/2zX2Ldpv7J41XnCHA)
+    
 13. DataBase & SQL
 14. Фреймворк Flask, FastApi
 15. Регулярные выражения, Scrapping
@@ -92,9 +65,9 @@
     
 | № 	|         Этап         	| До какого семинара 	| До какой даты 	|
 |:-:	|:--------------------:	|:------------------:	|---------------	|
-| 1 	|     Согласование     	|         07         	|        22.10.2025    |
-| 2 	| Генерирование данных 	|         08         	|        29.10.2025   	|
-| 3 	|     Анализ данных    	|         11         	|        19.11.2025   	|
+| 1 	|     Согласование     	|         07         	|            |
+| 2 	| Генерирование данных 	|         08         	|           	|
+| 3 	|     Анализ данных    	|         11         	|           	|
 | 4 	|  Разработка проекта  	|         15         	|               	|
 | 5 	|        Защита        	|         15         	|               	|
 
