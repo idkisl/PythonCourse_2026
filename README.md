@@ -22,26 +22,17 @@
 01. Управляющие конструкции
     - [лекция](01/Лекция/Лекция_1_Управляющие_конструкции.pdf)
     - [семинар](01/Семинар/workshop_control_structures.ipynb)
+    - [домашнее задание](https://contest.yandex.ru/contest/99208/problems/)
 02. Коллекции в Python: string, list, tuple, set, dict
-
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
-
 04. ООП в Python
-    
 05. Исключения и unittest / pytest
-
 06. Работа с файлами json, csv
-   
 07. Модуль NumPy
- 
 08. Модуль Matplotlib
-    
 09. Модуль Pandas
-    
 10. Модуль requests. Работа с HTTP, socket
-    
 11. Введение в асинхронность, Telegram API
-    
 13. DataBase & SQL
 14. Фреймворк Flask, FastApi
 15. Регулярные выражения, Scrapping
