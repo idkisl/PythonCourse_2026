@@ -24,6 +24,9 @@
     - [семинар](01/Семинар/workshop_control_structures.ipynb)
     - [домашнее задание](https://contest.yandex.ru/contest/99208/problems/)
 02. Коллекции в Python: string, list, tuple, set, dict
+    - [лекция](02/Лекция/Лекция_2_Коллекции.pdf)
+    - [семинар](02/Семинар/workshop_collections.ipynb)
+    - [домашнее задание]()
 03. Функции в Python: принимаемые аргументы и возвращаемые значения, функции высших порядков. Декораторы. Генераторы. Итераторы.
 04. ООП в Python
 05. Исключения и unittest / pytest
