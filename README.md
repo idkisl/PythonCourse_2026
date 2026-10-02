@@ -32,6 +32,9 @@
     - [семинар](03/Семинар)
     - [домашнее задание](https://contest.yandex.ru/contest/100041/problems/)   
 04. ООП в Python
+    - [лекция](04/Лекция/)
+    - [семинар](04/Семинар)
+    - [домашнее задание](https://contest.yandex.ru/contest/100440/problems/)   
 05. Исключения и unittest / pytest
 06. Работа с файлами json, csv
 07. Модуль NumPy
