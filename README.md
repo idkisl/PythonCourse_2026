@@ -41,6 +41,10 @@
     - [домашнее задание](05/ДЗ/practice_test.ipynb)
     - [сдать домашнее задание](https://forms.gle/HYF2xMsZLh5sfjHTA)
 06. Работа с файлами json, csv
+    - [лекция](06/Лекция/)
+    - [семинар](06/Семинар)
+    - [домашнее задание](06/ДЗ)
+    - [сдать домашнее задание](https://forms.gle/NGTqqesCmFYLqjJC6)
 07. Модуль NumPy
 08. Модуль Matplotlib
 09. Модуль Pandas
