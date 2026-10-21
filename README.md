@@ -46,6 +46,10 @@
     - [домашнее задание](06/ДЗ)
     - [сдать домашнее задание](https://forms.gle/NGTqqesCmFYLqjJC6)
 07. Модуль NumPy
+    - [лекция](07/Лекция/)
+    - [семинар](07/Семинар)
+    - [домашнее задание](07/ДЗ)
+    - [сдать домашнее задание](https://forms.gle/sAPQtDbfboCmEqSR7)
 08. Модуль Matplotlib
 09. Модуль Pandas
 10. Модуль requests. Работа с HTTP, socket
